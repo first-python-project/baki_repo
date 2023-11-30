@@ -1,4 +1,4 @@
-# baki_repo
+[[팀프로젝트] py_company_secu.pdf](https://github.com/first-python-project/baki_repo/files/13513033/py_company_secu.pdf)# baki_repo
 고객 개인정보가 포함된 엑셀 파일에서 중요 정보 마스킹 처리
 
 # customer_fake.py
@@ -12,3 +12,5 @@ file_path의 고객정보 파일으르 설정
 마스킹 처리한 엑셀파일을 새로 저장
 
 새로 저장한 파일을 자동 다운로드 됨
+
+
